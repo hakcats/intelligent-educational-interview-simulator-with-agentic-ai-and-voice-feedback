@@ -137,31 +137,31 @@ It’s designed to make **interview preparation accessible, effective, and engag
     <tbody>
         <tr>
             <td width="50%">
-                <video src=" " controls preload>
+                <video src="https://github.com/user-attachments/assets/53c75e5a-3bf2-49bd-adfc-c1c78fbfdb34" controls preload>
                     Your browser does not support the video tag.
                 </video>
             </td>
             <td width="50%">
-                <video src=" " controls preload>
-                    Your browser does not support the video tag.
-                </video>
-            </td>
-        </tr>
-        <tr>
-            <td width="50%">
-                <video src=" " controls preload>
-                    Your browser does not support the video tag.
-                </video>
-            </td>
-            <td width="50%">
-                <video src=" " controls preload>
+                <video src="https://github.com/user-attachments/assets/0098d694-ea1e-42d4-a4fa-98a85208a705" controls preload>
                     Your browser does not support the video tag.
                 </video>
             </td>
         </tr>
         <tr>
             <td width="50%">
-                <video src=" " controls preload>
+                <video src="https://github.com/user-attachments/assets/140b8790-4a2d-4d0c-8eb0-565ff740c248" controls preload>
+                    Your browser does not support the video tag.
+                </video>
+            </td>
+            <td width="50%">
+                <video src="https://github.com/user-attachments/assets/2327b24f-4c08-4f64-b52b-ce64cdd00112" controls preload>
+                    Your browser does not support the video tag.
+                </video>
+            </td>
+        </tr>
+        <tr>
+            <td width="50%">
+                <video src="https://github.com/user-attachments/assets/42d23bb6-c7a0-4cd1-8eda-28f4cfa5adc1" controls preload>
                     Your browser does not support the video tag.
                 </video>
             </td>
